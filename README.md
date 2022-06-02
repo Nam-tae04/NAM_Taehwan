@@ -7,9 +7,4 @@
 
 (압축을 풀고 src폴더에 있는 dog.html실행)
 
-배경 음악: https://bgmstore.net/view/5bb0d13b352039d2270a7079/%EB%82%98%EB%AC%B4%20%EC%B1%85%EC%83%81(%ED%8F%89%ED%99%94,%20%EA%B7%80%EC%97%AC%EC%9B%80,%20%EC%A6%90%EA%B1%B0%EC%9B%80)
-
-게임 시작 효과음: https://www.motionelements.com/ko/sound-effect-10010422-game-bonus
-
-
 
